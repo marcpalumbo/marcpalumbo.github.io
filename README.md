@@ -1,15 +1,13 @@
 # Data Analyst
 
 ### Education
-** ** California State University, Fullerton
+** **California State University, Fullerton
 Bachelor of Arts in Business Administration: Information Systems and Decision Sciences
-** ** Google Data Analytics Professional Certificate
-** ** UC Berkely Extension 
+** **Google Data Analytics Professional Certificate
+** **UC Berkely Extension 
 Data Processing and Data Technology Certificate 
 
 ###  Work Experience
-
-###### 
 ** ** Blueground 
 * Queried internal database to gain insight into sales and operations metrics and create reports for management stakeholders
 * Created visualizations for sales and operations management for reporting and tracking purposes (Metabase)
@@ -22,3 +20,6 @@ Data Processing and Data Technology Certificate
 
 
 ### Projects
+** **Great Resignation Analysis
+
+** **NFL Top Performers
