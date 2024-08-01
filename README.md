@@ -2,18 +2,14 @@
 
 ## Education
 **California State University, Fullerton**  <br> Bachelor of Arts in Business Administration: Information Systems and Decision Sciences
-
-**UC Berkely Extension** 
-
-Data Processing and Data Technology Certificate 
+**UC Berkely Extension** <br> Data Processing and Data Technology Certificate 
 
 **Google Data Analytics Professional Certificate**
 
 
 
 ##  Work Experience
-### Blueground
-**Sales Operations Analyst and Account Executive** 
+### Blueground <br> **Sales Operations Analyst and Account Executive** 
 * Queried internal database to gain insight into sales and operations metrics to create reports for management stakeholders
 * Created visualizations for sales and operations management for reporting and tracking purposes (Metabase)
 * Built dashboards for sales and operations management for tracking KPIs, revenue, and other metrics
