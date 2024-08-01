@@ -1,8 +1,9 @@
 # Data Analyst
 
 ## Education
-**California State University, Fullerton**  <br> Bachelor of Arts in Business Administration: Information Systems and Decision Sciences <be>
-**UC Berkely Extension** <br> Data Processing and Data Technology Certificate <br>**Google Data Analytics Professional Certificate**
+**California State University, Fullerton**  <br> Bachelor of Arts in Business Administration: Information Systems and Decision Sciences <br>
+**UC Berkely Extension** <br> Data Processing and Data Technology Certificate <br> 
+**Google Data Analytics Professional Certificate**
 
 
 
