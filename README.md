@@ -3,9 +3,13 @@
 ### Education
 **California State University, Fullerton**
 Bachelor of Arts in Business Administration: Information Systems and Decision Sciences
-** Google Data Analytics Professional Certificate**
+
 **UC Berkely Extension** 
 Data Processing and Data Technology Certificate 
+
+**Google Data Analytics Professional Certificate**
+
+
 
 ###  Work Experience
 **Blueground** 
