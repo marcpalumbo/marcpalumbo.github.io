@@ -22,5 +22,5 @@
 ## Projects
 **Great Resignation Analysis**
 
-**NFL Franchise Performance**
+**[NFL Franchise Performance](https://github.com/marcpalumbo/NFL_Predictions)**
 
