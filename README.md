@@ -8,7 +8,7 @@
 
 
 ##  Work Experience
-### Blueground 4/2022-6/2024 <br> **Sales Operations Analyst and Account Executive** 
+### Blueground | 4/2022-6/2024 <br> **Sales Operations Analyst and Account Executive** 
 * Queried internal database to gain insight into sales and operations metrics to create reports for management stakeholders
 * Created visualizations for sales and operations management for reporting and tracking purposes (Metabase)
 * Built dashboards for sales and operations management for tracking KPIs, revenue, and other metrics
@@ -18,7 +18,7 @@
 * Proactively managed CRM pipeline, ensuring accuracy and prioritizing new and repeat business
 * Managed a portfolio of up to 6 cities and 2,500 properties daily across the United States
 
-### Better Mortgage 2021-2022 <br> **Junior Loan Officer**
+### Better Mortgage | 4/2021-4/2022 <br> **Junior Loan Officer**
 * Elicited customer requirements, communicating relevant products and solutions to each qualified customer
 * Developed business processes leading to loan file creation of over 150 individuals (Top 25% of the company)
 * Conducted data gathering and collaboration with prospective clients through relationship-based strategies
