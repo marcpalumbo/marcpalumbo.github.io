@@ -36,6 +36,12 @@
 * Documented the ETL process, data lineage, and assumptions for future reference.
 * Published [NFL Franchise Performance](https://public.tableau.com/app/profile/marc.palumbo/viz/NFLFranchisePerformance/FranchiseSuccessDashboard) dashboard summarizing findings
 
+**[SQL Portfolio](https://github.com/marcpalumbo/SQL-portfolio)**
+* Analyzed top songs from 2010-2019 using BigQuery
+* Explored top-performing songs, artists, and genres across the 2010's
+* Analyzed top-performing Men's NCAA Basketball teams from 1985-2017
+* Utilized aggregate functions, joins, grouping, and subqueries to gather information on top performing songs and teams across publicly available datasets in BigQuery
+
 **[Great Resignation Analysis](https://github.com/marcpalumbo/Great_Resignation_Analysis)**
 * Documented the ETL processes, and assumptions for project context
 * Conducted thorough EDA to understand data limitations, patterns, and useful applications
