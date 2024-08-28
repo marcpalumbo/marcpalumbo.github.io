@@ -42,12 +42,11 @@
 * Analyzed top-performing Men's NCAA Basketball teams from 1985-2017
 * Utilized aggregate functions, joins, grouping, and subqueries to gather information on top performing songs and teams across publicly available datasets in BigQuery
 
-**[Great Resignation Analysis](https://github.com/marcpalumbo/Great_Resignation_Analysis)**
+**[S&P 500 and Stock Portfolio Analysis](https://github.com/marcpalumbo/SP500)**
 * Documented the ETL processes, and assumptions for project context
 * Conducted thorough EDA to understand data limitations, patterns, and useful applications
-* Created Database connection to Postgres SQL using sqlalchemy
-* Wrote schema for the database used during the project
-* Presented findings of industries that suffered the most employee turnover during the Great Resignation
+* Created a machine learning model to predict future stock prices using scikitlearn
+* Created detailed visualizations on personal stock portfolio's performance over time
 
 ## Social Profiles 
 * [LinkedIn](https://www.linkedin.com/in/marcpalumbo53/)
